@@ -1,3 +1,13 @@
+---
+title: "Ref List"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - paper_list
+  - ref
+---
+
 ## Huiying PhD thesis ref
 This repository maintains a list of materials that Huiying looks into. 
 
