@@ -16,6 +16,14 @@ Contains basic configuration to get you a site with:
 
 Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
+
+## Installation log
+
+- `bundle install`
+- `sudo apt-get install ruby-dev`
+- `bundle exec jekyll serve`
+
+
 ---
 
 ## Troubleshooting
@@ -25,3 +33,4 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
