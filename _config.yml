@@ -16,7 +16,7 @@
 title: ❤ ying's blog
 email: ying3268na@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D Candidate in Computer Science
+  balabalabala
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Huiying Chen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "balabalabala."
+  bio    : "Ph.D Candidate in Computer Science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
